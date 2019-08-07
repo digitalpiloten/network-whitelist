@@ -1,0 +1,13 @@
+# Digitalpiloten website
+digitalpiloten.org
+www.digitalpiloten.org
+piloten.digital
+www.piloten.digital
+
+# Calliope website
+calliope.cc
+
+# Makecode pages
+makecode.calliope.cc
+pxt.io
+makecode.com
